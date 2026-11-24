@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "WinRule/1.0.0": {
+        "dependencies": {
+          "System.Management": "10.0.14"
+        },
+        "runtime": {
+          "WinRule.dll": {}
+        }
+      },
+      "System.Management/10.0.14": {
+        "runtime": {
+          "lib/net10.0/System.Management.dll": {
+            "assemblyVersion": "10.0.0.14",
+            "fileVersion": "10.0.1426.52326"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net10.0/System.Management.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.14",
+            "fileVersion": "10.0.1426.52326"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinRule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Management/10.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ywAltakc72Oe7liNatclpyq8oiLYx0VMSjQvphlsbPbiQ9glrV3JKvn5M2xFbsOzzh8sV3QAiUdmu2AV/ffN7Q==",
+      "path": "system.management/10.0.14",
+      "hashPath": "system.management.10.0.14.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "///FktIyON4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sqwerxx\\source\\repos\\WinRule\\WinRule\\WinRule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sqwerxx\\.nuget\\packages\\system.management\\10.0.14\\system.management.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

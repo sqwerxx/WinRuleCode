@@ -1,0 +1,4 @@
+LIBRARY VirtualCamera
+EXPORTS
+    RegisterVirtualCamera
+    UnregisterVirtualCamera

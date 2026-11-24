@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WinRule": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\""
+    }
+  }
+}
