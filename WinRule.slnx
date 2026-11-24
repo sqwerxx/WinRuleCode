@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DeviceBlocker/DeviceBlocker.vcxproj" Id="79b07c11-a35b-4353-bea4-5e126929384c" />
+  <Project Path="VirtualCamera/VirtualCamera.vcxproj" Id="f2cb4d57-b928-4272-aa11-c56d51896f01" />
+  <Project Path="WinRule/WinRule.csproj" />
+</Solution>
