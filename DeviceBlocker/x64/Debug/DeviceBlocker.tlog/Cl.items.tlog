@@ -1,0 +1,7 @@
+C:\Users\sqwerxx\source\repos\WinRule\DeviceBlocker\dllmain.cpp;C:\Users\sqwerxx\source\repos\WinRule\DeviceBlocker\x64\Debug\dllmain.obj
+C:\Users\sqwerxx\source\repos\WinRule\DeviceBlocker\MinHook\buffer.c;C:\Users\sqwerxx\source\repos\WinRule\DeviceBlocker\x64\Debug\buffer.obj
+C:\Users\sqwerxx\source\repos\WinRule\DeviceBlocker\MinHook\hde\hde32.c;C:\Users\sqwerxx\source\repos\WinRule\DeviceBlocker\x64\Debug\hde32.obj
+C:\Users\sqwerxx\source\repos\WinRule\DeviceBlocker\MinHook\hde\hde64.c;C:\Users\sqwerxx\source\repos\WinRule\DeviceBlocker\x64\Debug\hde64.obj
+C:\Users\sqwerxx\source\repos\WinRule\DeviceBlocker\MinHook\hook.c;C:\Users\sqwerxx\source\repos\WinRule\DeviceBlocker\x64\Debug\hook.obj
+C:\Users\sqwerxx\source\repos\WinRule\DeviceBlocker\MinHook\trampoline.c;C:\Users\sqwerxx\source\repos\WinRule\DeviceBlocker\x64\Debug\trampoline.obj
+C:\Users\sqwerxx\source\repos\WinRule\DeviceBlocker\pch.cpp;C:\Users\sqwerxx\source\repos\WinRule\DeviceBlocker\x64\Debug\pch.obj
